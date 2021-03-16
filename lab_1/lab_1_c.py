@@ -1,6 +1,6 @@
 """
 Lab: 1
-Task: B
+Task: C
 
 Your task is to implement a basic Priority Queue, using Arrays, in python in an OOP fashion.
 Priority Queue is an extension of queue with following properties:
