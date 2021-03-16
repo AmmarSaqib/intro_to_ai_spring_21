@@ -1,0 +1,24 @@
+"""
+### Task 1 (A):
+Using a Python create a Class named "**Stack**". 
+The class should contain push and pop methods. The item to be stored 
+in the stack should be and object of the the class "**Node**" for which
+the class is given below:
+
+class Node:
+    def __init__ (self, _id, _value):
+        self._id = _id
+        self._value = _value
+    
+    def get_id(self):
+        return self._id
+
+    def get_value(self):
+        return self._value
+    
+    def set_id(self, _id):
+        self._id = _id
+
+    def set_value(self, _value):
+        self._value = _value
+"""

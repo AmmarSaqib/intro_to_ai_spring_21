@@ -3,7 +3,7 @@
 
 
 ### Task 1 (A):
-Using a Python list create a Class named "*Stack*". The class should contain the push and pop methods. The item to be stored in the stack should be of the the class "*Node*" for which the class is given below:
+Using a Python create a Class named "**Stack**". The class should contain push and pop methods. The item to be stored in the stack should be and object of the the class "**Node**" for which the class is given below:
 
 ```
 class Node:
@@ -24,3 +24,4 @@ class Node:
     def set_value(self, _value):
         self._value = _value
 ```
+
