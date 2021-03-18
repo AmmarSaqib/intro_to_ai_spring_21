@@ -78,7 +78,7 @@ class PriorityQueue():
 if __name__ == "__main__":
     """
     check your priority queue by inserting some values in it and then dequeue them
-    and see whether your results follow the FIFO (First In First Out)
+    and see whether your results follow the priority
     """
 
     # enter your code below
