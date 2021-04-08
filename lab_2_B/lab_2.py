@@ -54,6 +54,5 @@ if __name__ == "__main__":
         'G': set(['F','E','C'])
     }
 
-    # setting up connection costs
 
     depth_first_search(graph, 'A') 
