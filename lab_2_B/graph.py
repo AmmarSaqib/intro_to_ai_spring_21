@@ -36,5 +36,3 @@ if __name__ == "__main__":
         'F': set(['D','G']),
         'G': set(['F','E','C'])
     }
-
-    print("Cost going from A to D is:", graph.get_cost('A','D'))
