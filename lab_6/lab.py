@@ -26,13 +26,4 @@ Split the dataset into test and train sets. Use sklearn's test train split funct
 Use the default parameters for the classifier and fit a model on this dataset.
 Print the accuracy on the test data
 
-TASK 2: 
-For this task we will use the KNN as a regression: https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsRegressor.html#sklearn.neighbors.KNeighborsRegressor
-
-The dataset to be used for this will be the "Boston Housing dataset" that you can
-load from sklearn. (https://scikit-learn.org/stable/modules/classes.html#module-sklearn.neighbors)
-
-Split the dataset into test and train sets. Use sklearn's test train split function.
-Use the default parameters for the regressor and fit a model on this dataset.
-Print the accuracy on the test data.
 """
